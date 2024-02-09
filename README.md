@@ -49,7 +49,9 @@ Settings:
 11. StopVolumeProfit = 350000 \\ 350k
 
 TEST:
-![alt text](https://imgur.com/rWELeIk)
+![Screenshot_16](https://github.com/turbor1/Dextools-Volumes-Bot/assets/155108454/95ea7405-aed3-4e66-9e28-4b4f6203c4cc)
+![Screenshot_17](https://github.com/turbor1/Dextools-Volumes-Bot/assets/155108454/b3f18d92-0dca-4216-848d-0c7c7b439d4d)
+
 https://imgur.com/rWELeIk
 https://imgur.com/GWZ2FTe
 
