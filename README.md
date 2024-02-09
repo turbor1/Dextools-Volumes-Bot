@@ -27,7 +27,7 @@ Attention, all calculations are approximate!!
 
 I made the slip automatic but no more than 40%
 
-how to use:
+## how to use:
 
 Go to etherscan\dextools - copy Contract Address token and paste in config
 Create new MAIN wallet - Deposit $ - take private key and paste in config
@@ -37,7 +37,7 @@ Open **Volumes Trending Bot.exe** when the program starts, the config.ini check 
 
 -------------------------------------------------
 
-Settings:
+## Settings:
 
 1. paste your contract address token to "CA ="
 2. paste your private key from main wallet to "MainWallet ="
@@ -51,7 +51,7 @@ Settings:
 10. WalletMainSender_smart = true \\ sends different amounts to work wallets
 11. StopVolumeProfit = 350000 \\ 350k
 
-TEST:
+# TEST 30min:
 
 ![Screenshot_16](https://github.com/turbor1/Dextools-Volumes-Bot/assets/155108454/95ea7405-aed3-4e66-9e28-4b4f6203c4cc)
 ![Screenshot_17](https://github.com/turbor1/Dextools-Volumes-Bot/assets/155108454/b3f18d92-0dca-4216-848d-0c7c7b439d4d)
