@@ -60,3 +60,4 @@ Open **Volumes Trending Bot.exe** when the program starts, the config.ini check 
 
 
 **This is a demo, if you want to buy the full version, write to me in PM**
+t.me/gpt_dex
