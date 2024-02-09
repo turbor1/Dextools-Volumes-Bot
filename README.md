@@ -49,7 +49,7 @@ Settings:
 11. StopVolumeProfit = 350000 \\ 350k
 
 TEST:
-![alt text](example.com/logo.png)
+![alt text](https://imgur.com/rWELeIk)
 https://imgur.com/rWELeIk
 https://imgur.com/GWZ2FTe
 
