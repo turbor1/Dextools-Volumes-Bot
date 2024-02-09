@@ -29,6 +29,8 @@ I made the slip automatic but no more than 40%
 
 ## how to use:
 
+**minimum work budget $500**
+
 Go to etherscan\dextools - copy Contract Address token and paste in config
 Create new MAIN wallet - Deposit $ - take private key and paste in config
 Generate private key for Worker wallets - https://visualkey.link/ or another site\program and paste in generated.txt
