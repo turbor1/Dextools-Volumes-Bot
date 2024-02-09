@@ -1,5 +1,8 @@
 # Dextools Volumes Bot
 
+## Briefly, this bot is needed to sell Volumes per 24h in order to raise the token to the top
+
+
 for example, your budget is $2500
 if your settings are like below you will get approximately 80k
 These are the optimal settings; if you want to receive more Volumes, you need to increase the budget.
